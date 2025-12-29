@@ -1,0 +1,50 @@
+#Varible and rules
+val=10
+console.log(val)
+the number of ways the variale can be deaclare
+1.fullName
+2.full_fullName=10
+3.$num=10
+4.num1=10
+5._name="Ram"
+
+
+#data types
+1.primitive-> which cont be modified and change and also already defined
+ex num="hello"
+type of primitive data type
+1.string
+   -single quatation( fullName='helo')
+in this we can add value in between
+  fullName='helo'
+
+
+   -double quatationn(fullName="helo")
+   ex fullName="helo's"
+so that we can use sinlge quataiton in value
+
+   -backtik(fullName=`helo`)
+for the multiline 
+ex fullName=`loredf 
+             sldkjf `
+
+
+
+2.number
+
+
+3.underdefined
+4.null
+5.Boolean
+6.Bigint
+7.Symbol
+
+
+2.non primitive->refrencial data types
+type of non priimitive data type
+1.object
+2.Array
+3.function
+5.Date
+
+
