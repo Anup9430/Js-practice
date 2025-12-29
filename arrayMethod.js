@@ -193,3 +193,5 @@
 
 // 22. Use `forEach` to log the index and value of each element in an array. 
 // let arr = [1,2,3,4,5];
+ 23
+ 
