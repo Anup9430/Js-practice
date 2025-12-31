@@ -192,6 +192,7 @@
 
 
 // 22. Use `forEach` to log the index and value of each element in an array. 
-// let arr = [1,2,3,4,5];
- 23
- 
+let arr = [1,2,3,4,5];
+arr.forEach((item,index)=>{
+    console.log(item +"-"+ index)
+})
