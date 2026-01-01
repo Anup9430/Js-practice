@@ -257,9 +257,52 @@
 
 // 15. Create a program that loops through a string and prints the index of each letter 'o' in the string 
 // `"Hello EveryOne"`. 
-let str="Hello EveryOne";
-for(let i=0;i<str.length;i++){
-    if(str.toLowerCase()==="o"){
-        console.log(str[i])
-    }
-}
+// let str="Hello EveryOne";
+// for(let i=0;i<str.length;i++){
+//     if(str[i].toLowerCase()==="o"){
+//         console.log(i)
+//     }
+// }
+
+
+
+// 16. Write a program that trims a string, then checks if its length is even or odd using `if-else` statements. 
+// let str='Hello EveryOne';
+// let newstr= str.trim()
+// // console.log(newstr)
+// if(newstr.length%2==0){
+//     console.log("length of string is even = "+newstr.length)
+// }else{
+//     console.log("length of string is odd = "+newstr.length)
+// }
+
+
+
+// 17. Using a loop, write a program that checks if the first and last characters of a string are the same. Use 
+// `if-else` statements to print the result. 
+// let str="Hello EveryOne";
+//     if(str[0]===str[str.length-1])
+//     {
+//         console.log("char are equal")
+//     }else{
+//         console.log("char are not equal")
+//     }
+
+
+
+// 18. Write a program that replaces the first 3 characters of a string with "ABC" using slicing and `if-else` 
+// statements. 
+// let str= 'Hello EveryOne';
+// if(str.length>=3){
+//     console.log("ABC"+str.slice(3))
+// }else{
+//     console.log("string length is less than 3")
+// }
+
+
+
+// 19. Create a program that uses a loop to reverse a string and print the reversed string. 
+// let str="Hello EveryOne";
+// for(let i=str.length-1;i>=0;i--){
+//     console.log(str[i])
+// }
